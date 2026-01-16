@@ -735,7 +735,7 @@ kubectl describe pod pod-name
 ---
 
 ## Component Relationships
-
+![image](https://github.com/abhijitray7810/Kubernetes-Notes/blob/286d93e89121e9c499954a5d944fa31af4779536/Image%20Jan%2016%2C%202026%2C%2008_12_19%20PM.png)
 ### Architecture Workflow
 
 ```
